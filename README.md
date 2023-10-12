@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A passionate backend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Automation using Selenium**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **r_paim@outlook.com**
 
